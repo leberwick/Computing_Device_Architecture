@@ -1,0 +1,55 @@
+{
+  "threads": [
+    {
+      "guid": "e98db486b42debded6ab11daa8de5d57e",
+      "locator": {
+        "path": "spec/detailed-description-intro.html"
+      },
+      "comments": [
+        {
+          "author": {
+            "uuid": "415a365a-7cb5-489c-bf09-e68f5880de05",
+            "name": "Laura Berwick"
+          },
+          "timestamp": "2019-11-19T17:46:28.601Z",
+          "content": "<p>host vs host device</p>",
+          "guid": "eb2ea0ad1c39380bbf3916b8b8d73d4b0"
+        }
+      ]
+    },
+    {
+      "guid": "e6fca31006be57ee5c424f37b99e5a7e8",
+      "locator": {
+        "path": "spec/detailed-description-intro.html"
+      },
+      "comments": [
+        {
+          "author": {
+            "uuid": "415a365a-7cb5-489c-bf09-e68f5880de05",
+            "name": "Laura Berwick"
+          },
+          "timestamp": "2019-11-19T23:01:39.727Z",
+          "content": "<p>Definitions</p>",
+          "guid": "eaa556c7fcb8e2fd3383dbee1e91b9c20"
+        }
+      ]
+    },
+    {
+      "guid": "e61e1888bf04d231aa7e36cfb8ca200fc",
+      "locator": {
+        "path": "spec/detailed-description-intro.html"
+      },
+      "comments": [
+        {
+          "author": {
+            "uuid": "415a365a-7cb5-489c-bf09-e68f5880de05",
+            "name": "Laura Berwick"
+          },
+          "timestamp": "2019-11-19T23:08:59.656Z",
+          "content": "<p>Add definitions</p>",
+          "guid": "ee02a9b7fce751ceba88e7615925bd96a"
+        }
+      ]
+    }
+  ]
+}

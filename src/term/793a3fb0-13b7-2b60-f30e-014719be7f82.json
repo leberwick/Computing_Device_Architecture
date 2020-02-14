@@ -1,0 +1,4 @@
+{
+  "html": "software",
+  "definition": "<p>logic implemented as processor-executable instructions in a machine <span data-role=\"tag\" data-value=\"0d649ce2-f7a3-4bf9-9b25-b4f2f909d7b1\" id=\"id9fb11359-8067-4cab-4816-31b0e017c677\" data-type=\"term\">memory</span> (e.g. read/write <span data-role=\"tag\" data-value=\"5481dc52-04c5-1e02-7994-1adda293bced\" id=\"idc093e7cd-2868-6480-4f55-eedf3d1a27d7\" data-type=\"term\">volatile memory media</span> or <span data-role=\"tag\" data-value=\"685e6ab4-8d71-4cec-2950-eed34e04a323\" id=\"id62a6d2cc-0cb9-ccdd-2c7f-432ef730108a\" data-type=\"term\">non-volatile memory media</span>).</p>"
+}

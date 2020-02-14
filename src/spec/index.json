@@ -1,0 +1,40 @@
+{
+  "documentMap": [
+    {
+      "path": "spec/cross-reference.html"
+    },
+    {
+      "path": "spec/background.html"
+    },
+    {
+      "path": "spec/brief-summary.html"
+    },
+    {
+      "path": "spec/brief-description-front-matter.html"
+    },
+    {
+      "path": "drawings/66274d8d-d225-aa87-23a1-2ae11497e8a0/brief-description.html"
+    },
+    {
+      "path": "spec/detailed-description-intro.html"
+    },
+    {
+      "path": "drawings/66274d8d-d225-aa87-23a1-2ae11497e8a0/detailed-description.html"
+    },
+    {
+      "path": "spec/detailed-description-conclusion.html"
+    },
+    {
+      "path": "spec/claims-front-matter.html"
+    },
+    {
+      "path": "claims/b2eb61bf-ae1d-3f01-6b5a-985fcf33151e.html"
+    },
+    {
+      "path": "spec/abstract.html"
+    }
+  ],
+  "migrations": {
+    "editableHeadings": true
+  }
+}

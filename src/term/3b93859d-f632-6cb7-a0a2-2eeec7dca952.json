@@ -1,0 +1,4 @@
+{
+  "html": "logical address",
+  "definition": "<p>any identifier for referencing a <span data-role=\"tag\" data-value=\"0d649ce2-f7a3-4bf9-9b25-b4f2f909d7b1\" id=\"idc0c87914-68d9-9801-c11c-49c6c07e31ef\" data-type=\"term\">memory</span> resource (e.g., data), including, but not limited to: a logical block address (LBA), cylinder/head/sector (CHS) address, a file name, an object identifier, an inode, a Universally Unique Identifier (UUID), a Globally Unique Identifier (GUID), a hash code, a signature, an index entry, a range, an extent, or the like. A <span data-role=\"tag\" data-value=\"3b93859d-f632-6cb7-a0a2-2eeec7dca952\" id=\"idb98d5697-bec9-254d-ec95-4291b6b63340\" data-type=\"term\">logical address</span> does not indicate the physical location of data on the storage media, but is an abstract reference to the data.</p>"
+}
